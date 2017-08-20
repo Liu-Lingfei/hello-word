@@ -23,8 +23,6 @@ void loop() {
 
   Serial.print("\speed: ");
   Serial.print( Speed);
-  /*Serial.print( "\toutput =");
-  Serial.print( outputValue);*/
   Serial.print("\n");
   delay(2);
 }
